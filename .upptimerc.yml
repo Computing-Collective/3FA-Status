@@ -4,11 +4,12 @@ repo: 3FA-Status # The name of this repository
 
 sites:
   - name: 3FA Admin Portal
-    url: https://3fa.netlify.app/
+    url: https://3fa.netlify.app
     maxResponseTime: 5000
-    assignees:
-      - ElioDiNino
-      - im-calvin
+
+assignees:
+  - ElioDiNino
+  - im-calvin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +20,13 @@ status-website:
   favicon: https://raw.githubusercontent.com/Computing-Collective/3FA/main/client/public/app/app_icon.png
   name: 3FA Status
   theme: dark
-  introTitle: "Welcome to the 3FA Status page"
+  introTitle: "Welcome to the 3FA status website"
   introMessage: View current and past uptime statistics as well as outages in real-time
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /3FA-Status
+    - title: 3FA GitHub
+      href: https://github.com/$OWNER/3FA
       
 workflowSchedule:
   graphs: "0 0 * * *"
