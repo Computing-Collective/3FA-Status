@@ -3,9 +3,11 @@ owner: Computing-Collective # Your GitHub organization or username, where this r
 repo: 3FA-Status # The name of this repository
 
 sites:
-  - name: 3FA Admin Portal
+  - name: Admin Portal
     url: https://3fa.netlify.app
     maxResponseTime: 5000
+  - name: API
+    url: https://3fa.bxian03.systems/health
 
 assignees:
   - ElioDiNino
@@ -27,6 +29,8 @@ status-website:
       href: /3FA-Status
     - title: 3FA GitHub
       href: https://github.com/$OWNER/3FA
+    - title: Status GitHub
+      href: https://github.com/$OWNER/3FA-Status
       
 workflowSchedule:
   graphs: "0 0 * * *"
