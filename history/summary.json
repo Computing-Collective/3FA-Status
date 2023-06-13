@@ -22,17 +22,19 @@
     "url": "https://3fa.bxian03.systems/health",
     "icon": "https://icons.duckduckgo.com/ip3/3fa.bxian03.systems.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 381,
-    "timeWeek": 406,
-    "timeMonth": 405,
-    "timeYear": 405,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 219,
+    "timeWeek": 362,
+    "timeMonth": 370,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   }
 ]
