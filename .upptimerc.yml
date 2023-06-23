@@ -8,6 +8,8 @@ sites:
     maxResponseTime: 5000
   - name: API
     url: https://3fa.bxian03.systems/health
+  - name: Demo Video
+    url: https://img.youtube.com/vi/EXM25gpxC9Y/mqdefault.jpg
 
 assignees:
   - ElioDiNino
@@ -39,7 +41,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/30 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
