@@ -6,7 +6,7 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 279,
     "timeMonth": 177,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "API",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/3fa.bxian03.systems.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "84.94%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "45.83%",
-    "uptimeMonth": "87.53%",
-    "uptimeYear": "84.94%",
+    "uptime": "84.42%",
+    "uptimeDay": "3.12%",
+    "uptimeWeek": "35.76%",
+    "uptimeMonth": "85.22%",
+    "uptimeYear": "84.42%",
     "time": 322,
     "timeDay": 299,
     "timeWeek": 395,
     "timeMonth": 323,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-09-27": 38,
+      "2023-09-27": 1053,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
