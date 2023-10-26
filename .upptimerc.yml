@@ -7,7 +7,7 @@ sites:
     url: https://3fa.netlify.app
     maxResponseTime: 5000
   - name: API
-    url: https://3fa.bxian03.systems/health
+    url: https://3fa.bxian03.com/health
   - name: Demo Video
     url: https://img.youtube.com/vi/EXM25gpxC9Y/mqdefault.jpg
 
