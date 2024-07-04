@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 161,
-    "timeWeek": 175,
-    "timeMonth": 172,
+    "timeDay": 40,
+    "timeWeek": 176,
+    "timeMonth": 160,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/3fa.bxian03.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.25%",
+    "uptime": "95.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "95.73%",
+    "uptimeYear": "96.01%",
     "time": 305,
-    "timeDay": 330,
-    "timeWeek": 318,
+    "timeDay": 336,
+    "timeWeek": 321,
     "timeMonth": 295,
     "timeYear": 302,
     "dailyMinutesDown": {
@@ -59,8 +59,7 @@
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
-      "2023-07-06": 1440,
-      "2023-07-05": 1440
+      "2023-07-06": 1440
     }
   },
   {
@@ -75,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 65,
-    "timeWeek": 65,
+    "timeDay": 46,
+    "timeWeek": 63,
     "timeMonth": 65,
     "timeYear": 78,
     "dailyMinutesDown": {}
