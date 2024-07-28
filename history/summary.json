@@ -4,18 +4,20 @@
     "url": "https://3fa.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/3fa.netlify.app.ico",
     "slug": "admin-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 52,
-    "timeWeek": 190,
-    "timeMonth": 189,
+    "timeDay": 136,
+    "timeWeek": 193,
+    "timeMonth": 190,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "API",
