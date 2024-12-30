@@ -1,7 +1,7 @@
 url: https://3fa.bxian03.com/health
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2024-12-29T23:07:06.851Z
+status: down
+code: 502
+responseTime: 230
+lastUpdated: 2024-12-30T19:14:34.722Z
 startTime: 2023-06-05T08:22:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
